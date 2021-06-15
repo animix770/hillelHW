@@ -1,0 +1,6 @@
+#todos {
+    width: 150px;
+}
+#todos-block div {
+    float: left;
+}
